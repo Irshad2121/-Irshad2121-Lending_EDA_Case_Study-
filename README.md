@@ -44,6 +44,6 @@
 
 ## Contact
 Developed by 
-1. @ganesh-hariraj 
-2. @Irshad2121 
+1. [@ganesh-hariraj ]
+2. [@Irshad2121 ]
 
