@@ -44,6 +44,6 @@
 
 ## Contact
 Developed by 
-1. [@ganesh-hariraj ]
-2. [@Irshad2121 ]
+1. Ganesh Hariraj https://github.com/ganesh-hariraj/
+2. Irshad Shaikh  https://github.com/Irshad2121/
 
